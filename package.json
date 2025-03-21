@@ -2,8 +2,9 @@
     "name": "islamic-hadith",
     "displayName": "احاديث نبوية",
     "description": "إضافة Visual Studio Code تعرض أحاديث نبوية شريفة بشكل دوري لمساعدتك في البقاء على اتصال بالتعاليم الإسلامية أثناء البرمجة.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Muslim-Hadith-Reminder",
+    "icon": "images/logo-test.png",
     "engines": {
         "vscode": "^1.80.0"
     },
