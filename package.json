@@ -1,8 +1,9 @@
 {
-    "name": "islamic-reminders",
-    "displayName": "Islamic Reminders",
-    "description": "Get periodic notifications with Hadiths and Azkar",
-    "version": "0.0.1",
+    "name": "islamic-hadith",
+    "displayName": "احاديث نبوية",
+    "description": "إضافة Visual Studio Code تعرض أحاديث نبوية شريفة بشكل دوري لمساعدتك في البقاء على اتصال بالتعاليم الإسلامية أثناء البرمجة.",
+    "version": "1.0.0",
+    "publisher": "Muslim-Hadith-Reminder",
     "engines": {
         "vscode": "^1.80.0"
     },
